@@ -16,7 +16,7 @@ The team wants a single report to track month-over-month (MoM) growth of J&K Ban
 6. What is the peak monthly volume so far?
 
 ## Dashboard Interaction
--<a href="(https://github.com/Abhijeetpatil-1998/JK-Bank-UPI-Transaction-Growth-Dashboard-Dec-2023-Nov-2025-/blob/main/Client%20wise%20Monthly%20Growth%20%25%20(%20J%26K%20Bank).jpeg">[View Dashboard]</a>
+-<a href="https://github.com/Abhijeetpatil-1998/JK-Bank-UPI-Transaction-Growth-Dashboard-Dec-2023-Nov-2025-/blob/main/Client%20wise%20Monthly%20Growth%20%25%20(%20J%26K%20Bank).jpeg">[View Dashboard]</a>
 
 ## Process
 1. Collected monthly transaction totals and checked for missing months and incorrect values.
