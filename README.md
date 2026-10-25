@@ -3,6 +3,9 @@
 ## Project Objective
 The team wants a single report to track month-over-month (MoM) growth of J&K Bank's total UPI transactions (FT & NFT), so that management can see the growth trend, spot months with declines, and plan for the coming months.
 
+## Note :
+Due to data privacy and company confidentiality policies, raw datasets, customer records, and the original workbook are proprietary and cannot be shared publicly.
+
 ## Dataset used
 - Monthly UPI transaction totals (FT & NFT) for J&K Bank, December 2023 to November 2025
 - Fields: Year, Month, Current Month value, Previous Month value, MoM Growth %
