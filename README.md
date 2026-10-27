@@ -29,7 +29,7 @@ Due to data privacy and company confidentiality policies, raw datasets, customer
 5. Combined both visuals into one dashboard.
 
 ## Dashboard
-![Client wise Monthly Growth % ( J&K Bank)](https://github.com/Abhijeetpatil-1998/JK-Bank-UPI-Transaction-Growth-Dashboard-Dec-2023-Nov-2025-/blob/main/Client%20wise%20Monthly%20Growth%20%25%20(%20J%26K%20Bank).jpeg)
+![Client wise Monthly Growth % ]( J&K Bank)](https://github.com/Abhijeetpatil-1998/JK-Bank-UPI-Transaction-Growth-Dashboard-Dec-2023-Nov-2025-/blob/main/Client%20wise%20Monthly%20Growth%20%25%20(%20J%26K%20Bank).jpeg)
 
 ## Project Insight
 - Transactions grew from **77.7M (Dec 2023)** to **290.4M (Nov 2025)**, about **3.7x** in 23 months.
